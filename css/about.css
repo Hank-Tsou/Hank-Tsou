@@ -9,6 +9,7 @@
   -ms-flex: 1;
       flex: 1;
   padding-left: 35px;
+  /* margin-right: 10px; */
   background-color: white; }
 
 .top_header {
