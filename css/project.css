@@ -39,7 +39,8 @@
 
 .project .title_contents {
   height: 30px;
-  font-size: 23px;
+  font-size: 20px;
+  font-weight: 500;
   font-family: "Quicksand", Arial, sans-serif;
   color: #4169E1;
   background-color: white; }
@@ -48,7 +49,7 @@
   height: 30px;
   background-color: yellow;
   font-size: 16px;
-  font-weight: 900;
+  font-weight: 600;
   font-family: "Quicksand", Arial, sans-serif;
   margin-top: 0.5em;
   color: #5e9516;
