@@ -1,0 +1,209 @@
+#page1 {
+  position: relative;
+  display: block;
+  height: 0;
+  overflow: hidden; }
+
+.about {
+  height: 745px;
+  -ms-flex: 1;
+      flex: 1;
+  padding-left: 35px;
+  background-color: white; }
+
+.top_header {
+  height: 40px;
+  -ms-flex: 1;
+      flex: 1;
+  padding-left: 35px;
+  background-color: white; }
+
+.top_header_underline {
+  height: 1px;
+  -ms-flex: 1;
+      flex: 1;
+  background-color: rgba(0, 0, 0, 0.2); }
+
+.social_media {
+  height: 30px;
+  width: 220px;
+  margin-left: 580px;
+  padding-top: 10px;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: white; }
+
+.social_linkin {
+  /* background-image: url({{site.baseurl}}/assets/img/linkin.jpg); */
+  height: 30px;
+  width: 30px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: 20px;
+  background-color: #f2f3f7; }
+
+.social_github {
+  /* background-image: url({{site.baseurl}}/assets/img/git.jpg); */
+  height: 30px;
+  width: 30px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: 20px;
+  background-color: #f2f3f7; }
+
+.social_twitter {
+  /* background-image: url({{site.baseurl}}/assets/img/twitter.jpg); */
+  height: 30px;
+  width: 30px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: 20px;
+  background-color: #f2f3f7; }
+
+.social_fb {
+  /* background-image: url({{site.baseurl}}/assets/img/fb.jpg); */
+  height: 30px;
+  width: 30px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: 20px;
+  background-color: #f2f3f7; }
+
+.ab_top_1 {
+  font-size: 10px;
+  font-family: "Quicksand", Arial, sans-serif;
+  color: rgba(0, 0, 0, 0.5);
+  text-transform: uppercase;
+  white-space: pre;
+  letter-spacing: 4pt;
+  padding-top: 50px;
+  padding-bottom: 12px;
+  background-color: white; }
+
+.top_1 {
+  font-size: 10px;
+  font-family: "Quicksand", Arial, sans-serif;
+  color: rgba(0, 0, 0, 0.5);
+  text-transform: uppercase;
+  white-space: pre;
+  letter-spacing: 4pt;
+  padding-top: 7.5em;
+  padding-bottom: 12px;
+  background-color: white; }
+
+.top_2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: black;
+  font-family: "Playfair Display", Georgia, serif;
+  letter-spacing: 2pt;
+  text-transform: uppercase;
+  padding-bottom: 65px;
+  background-color: white; }
+
+.ab_desciption {
+  background-color: white;
+  margin-right: 10px; }
+
+.ab_desciption p {
+  font-size: 14px;
+  letter-spacing: 1pt;
+  color: rgba(0, 0, 0, 0.7);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+.ab_row1 {
+  height: 150px;
+  -ms-flex: 1;
+      flex: 1;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: white;
+  padding-top: 10px; }
+
+.ab_r1_sq_1, .ab_r2_sq_1 {
+  margin-left: 55px; }
+
+.ab_r1_sq_2, .ab_r1_sq_3,
+.ab_r2_sq_2, .ab_r2_sq_3 {
+  margin-left: 8.6%; }
+
+.ab_r1_sq_1 {
+  width: 176px;
+  height: 150px;
+  background-color: white;
+  box-shadow: 4px 4px 12px 4px rgba(51, 51, 102, 0.3);
+  border-style: solid;
+  border-color: #FFCC99; }
+
+.ab_r1_sq_2 {
+  width: 176px;
+  height: 150px;
+  background-color: white;
+  box-shadow: 4px 4px 12px 4px rgba(51, 51, 102, 0.3);
+  border-style: solid;
+  border-color: #CCFFCC; }
+
+.ab_r1_sq_3 {
+  width: 176px;
+  height: 150px;
+  background-color: white;
+  box-shadow: 4px 4px 12px 4px rgba(51, 51, 102, 0.3);
+  border-style: solid;
+  border-color: #FFFFCC; }
+
+.ab_row2 {
+  height: 150px;
+  -ms-flex: 1;
+      flex: 1;
+  background-color: white;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 40px; }
+
+.ab_r2_sq_1 {
+  width: 176px;
+  height: 150px;
+  background-color: white;
+  box-shadow: 4px 4px 12px 4px rgba(51, 51, 102, 0.3);
+  border-style: solid;
+  border-color: #FFCCCC; }
+
+.ab_r2_sq_2 {
+  width: 176px;
+  height: 150px;
+  background-color: white;
+  box-shadow: 4px 4px 12px 4px rgba(51, 51, 102, 0.3);
+  border-style: solid;
+  border-color: #CCFFFF; }
+
+.ab_r2_sq_3 {
+  width: 176px;
+  height: 150px;
+  background-color: white;
+  box-shadow: 4px 4px 12px 4px rgba(51, 51, 102, 0.3);
+  border-style: solid;
+  border-color: #CCCCFF; }
+
+.about .content {
+  font-size: 15px;
+  color: black;
+  font-family: "Quicksand", Arial, sans-serif;
+  text-align: center;
+  margin-top: 1em;
+  text-transform: uppercase; }
+
+.about .content2 {
+  font-size: 15px;
+  color: black;
+  font-family: "Quicksand", Arial, sans-serif;
+  text-align: center;
+  margin-top: 1.5em;
+  text-transform: uppercase; }
+
+.about .image {
+  width: 50px;
+  height: 50px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: 63px;
+  margin-top: 20px; }

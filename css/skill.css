@@ -1,0 +1,106 @@
+#page2 {
+  position: relative;
+  display: block;
+  height: 0;
+  overflow: hidden; }
+
+.skills {
+  height: 1500px;
+  -ms-flex: 1;
+      flex: 1;
+  background-color: white;
+  padding-left: 35px; }
+
+.sk_top_2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: black;
+  font-family: "Playfair Display", Georgia, serif;
+  letter-spacing: 2pt;
+  text-transform: uppercase;
+  padding-bottom: 88px;
+  background-color: white; }
+
+.sk_row1 {
+  height: 318px;
+  -ms-flex: 1;
+      flex: 1;
+  background-color: white;
+  display: -ms-flexbox;
+  display: flex; }
+
+.icon_sq_container {
+  width: 250px;
+  height: 60px;
+  background-color: white; }
+
+.sk_sq_container {
+  width: 250px;
+  height: 317px;
+  background-color: white; }
+
+.sk_sq_container .icon_img {
+  width: 120px;
+  height: 120px;
+  margin-left: 65px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  background-color: pink; }
+
+.sk_sq_container .blank {
+  width: 249px;
+  height: 60px;
+  background-color: white; }
+
+.sk_sq_container .title {
+  width: 249px;
+  height: 40px;
+  font-size: 24px;
+  font-weight: 600;
+  color: #4169E1;
+  background-color: white;
+  padding-top: 70px;
+  text-align: center; }
+
+.sk_sq_container .content {
+  width: 250px;
+  height: 290px;
+  background-color: white;
+  box-shadow: 4px 4px 12px 4px rgba(51, 51, 102, 0.3); }
+
+.skill_dots {
+  padding-top: 5px; }
+
+.sk_sq_container .underline_1 {
+  width: 250px;
+  height: 3px;
+  background-color: #FFCCCC; }
+
+.sk_sq_container .underline_2 {
+  width: 250px;
+  height: 3px;
+  background-color: #CCFFCC; }
+
+.sk_sq_container .underline_3 {
+  width: 250px;
+  height: 3px;
+  background-color: #CCFFFF; }
+
+.sk_row2 {
+  height: 318px;
+  -ms-flex: 1;
+      flex: 1;
+  background-color: white;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 25px; }
+
+.city_scen {
+  height: 250px;
+  -ms-flex: 1;
+      flex: 1;
+  margin-top: 250px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: white; }

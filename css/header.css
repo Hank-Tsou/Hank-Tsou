@@ -1,0 +1,111 @@
+.background {
+  height: 100vh;
+  min-height: 695px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6); }
+
+.container {
+  height: 100vh;
+  min-height: 695px;
+  width: 1170px;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 auto;
+  background-color: gray; }
+
+.bar_container {
+  width: 300px;
+  height: 100vh;
+  min-height: 695px;
+  background-color: #f2f3f7; }
+
+.bar_container .center_bar {
+  width: 300px;
+  height: 620px;
+  background-color: #f2f3f7;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%); }
+
+.center_bar .author-img {
+  width: 150px;
+  height: 150px;
+  background-color: white;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative; }
+
+.center_bar .Name {
+  font-size: 22px;
+  font-weight: 600;
+  display: block;
+  text-align: center;
+  margin-bottom: .5em;
+  padding-right: .3em; }
+
+.center_bar .Name a {
+  font-family: "Playfair Display", Georgia, serif;
+  text-decoration: none;
+  color: #000; }
+
+.center_bar .position {
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.7);
+  text-transform: uppercase;
+  display: block;
+  text-align: center;
+  margin-bottom: 2em; }
+
+.center_bar #main-menu {
+  text-align: center;
+  margin: 0;
+  padding: 0; }
+
+.center_bar .barclass {
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  list-style: none;
+  margin: 0 0 10px 0;
+  padding: 0; }
+
+.center_bar .element {
+  padding: 8px 0; }
+
+.center_bar .barclass a {
+  position: relative;
+  color: rgba(0, 0, 0, 0.7);
+  text-decoration: none;
+  font-family: "Quicksand", Arial, sans-serif; }
+
+.center_bar .hashtag {
+  width: 300px;
+  height: 92px;
+  color: #2c98f0;
+  font-size: 18px;
+  font-family: "Quicksand", Arial, sans-serif;
+  display: block;
+  text-align: center;
+  line-height: 100px; }
+
+.center_bar .author {
+  text-align: center;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.7);
+  font-family: "Quicksand", Arial, sans-serif; }
+
+.Middle {
+  height: 100vh;
+  min-height: 695px;
+  -ms-flex: 1;
+      flex: 1;
+  margin-left: 1px;
+  overflow: auto;
+  background-color: lightgray;
+  scroll-behavior: smooth; }

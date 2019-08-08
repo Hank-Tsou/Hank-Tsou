@@ -1,0 +1,122 @@
+#page5 {
+  position: relative;
+  display: block;
+  height: 0;
+  overflow: hidden; }
+
+.research {
+  height: 970px;
+  -ms-flex: 1;
+      flex: 1;
+  padding-left: 35px;
+  background-color: #f2f3f7; }
+
+.re_top_1 {
+  font-size: 10px;
+  font-family: "Quicksand", Arial, sans-serif;
+  color: rgba(0, 0, 0, 0.5);
+  text-transform: uppercase;
+  white-space: pre;
+  letter-spacing: 4pt;
+  padding-top: 7.5em;
+  padding-bottom: 12px;
+  background-color: #f2f3f7; }
+
+.re_top_2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: black;
+  font-family: "Playfair Display", Georgia, serif;
+  letter-spacing: 2pt;
+  text-transform: uppercase;
+  padding-bottom: 65px;
+  background-color: #f2f3f7; }
+
+.researchs_row1 {
+  background-color: #f2f3f7;
+  display: -ms-flexbox;
+  display: flex;
+  height: 360px;
+  -ms-flex: 1;
+      flex: 1;
+  margin-bottom: 3em; }
+
+.researchs_row1 .info {
+  -ms-flex: 1;
+      flex: 1;
+  margin-right: 20px;
+  background-color: #f2f3f7; }
+
+.research .title_contents {
+  height: 30px;
+  font-size: 18px;
+  font-family: "Quicksand", Arial, sans-serif;
+  color: #4169E1;
+  background-color: #f2f3f7; }
+
+.research .date {
+  height: 30px;
+  background-color: #f2f3f7;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Quicksand", Arial, sans-serif;
+  color: #5e9516; }
+
+.researchs_row1 .img_sq {
+  width: 350px;
+  margin-right: 15px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #f2f3f7; }
+
+.researchs_row1 .image {
+  height: 230px;
+  width: 350px;
+  margin-top: 110px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 4px 4px 12px 4px rgba(51, 51, 102, 0.3); }
+
+.researchs_row2 {
+  background-color: #f2f3f7;
+  display: -ms-flexbox;
+  display: flex;
+  height: 320px;
+  -ms-flex: 1;
+      flex: 1;
+  margin-bottom: 3em; }
+
+.research .title_2 {
+  height: 60px;
+  width: 430px;
+  background-color: #f2f3f7; }
+
+.research .title_contents_2 {
+  height: 30px;
+  width: 460px;
+  position: relative;
+  font-size: 18px;
+  font-family: "Quicksand", Arial, sans-serif;
+  color: #4169E1;
+  background-color: #f2f3f7; }
+
+.researchs_row2 .info {
+  -ms-flex: 1;
+      flex: 1;
+  margin-right: 20px;
+  background-color: #f2f3f7; }
+
+.researchs_row2 .img_sq {
+  width: 350px;
+  margin-right: 15px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #f2f3f7; }
+
+.researchs_row2 .image {
+  height: 230px;
+  width: 350px;
+  margin-top: 90px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 4px 4px 12px 4px rgba(51, 51, 102, 0.3); }
