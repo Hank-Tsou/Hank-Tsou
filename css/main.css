@@ -1,4 +1,7 @@
 html{
   background-color: lightgray;
-  color: red;
+}
+
+body {
+  color: blue;
 }
