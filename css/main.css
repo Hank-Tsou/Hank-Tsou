@@ -540,7 +540,7 @@ body {
   background-color: #f2f3f7; }
 
 .social_fb {
-  background-image: url({{site.baseurl}}/assets/img/fb.jpg);
+  /* background-image: url({{site.baseurl}}/assets/img/fb.jpg); */
   height: 30px;
   width: 30px;
   background-size: cover;
