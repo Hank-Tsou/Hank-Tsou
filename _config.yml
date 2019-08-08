@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /Hank-Tsou
+exclude: ["README.md"]
