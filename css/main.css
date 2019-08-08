@@ -513,7 +513,7 @@ body {
   background-color: white; }
 
 .social_linkin {
-  background-image: url({{site.baseurl}}/assets/img/linkin.jpg);
+  /* background-image: url({{site.baseurl}}/assets/img/linkin.jpg); */
   height: 30px;
   width: 30px;
   background-size: cover;
@@ -522,7 +522,7 @@ body {
   background-color: #f2f3f7; }
 
 .social_github {
-  background-image: url({{site.baseurl}}/assets/img/git.jpg);
+  /* background-image: url({{site.baseurl}}/assets/img/git.jpg); */
   height: 30px;
   width: 30px;
   background-size: cover;
@@ -531,7 +531,7 @@ body {
   background-color: #f2f3f7; }
 
 .social_twitter {
-  background-image: url({{site.baseurl}}/assets/img/twitter.jpg);
+  /* background-image: url({{site.baseurl}}/assets/img/twitter.jpg); */
   height: 30px;
   width: 30px;
   background-size: cover;
