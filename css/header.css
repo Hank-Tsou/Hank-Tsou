@@ -100,12 +100,12 @@
   color: rgba(0, 0, 0, 0.7);
   font-family: "Quicksand", Arial, sans-serif; }
 
-.Middle {
+#Middle {
   height: 100vh;
   min-height: 695px;
   -ms-flex: 1;
       flex: 1;
   margin-left: 1px;
   overflow: auto;
-  background-color: lightgray;
+  background-color: white;
   scroll-behavior: smooth; }
