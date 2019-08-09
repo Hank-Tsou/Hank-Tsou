@@ -1,3 +1,8 @@
+.blank_gray{
+  height:60px;
+  background-color: #f2f3f7;
+}
+
 #page5 {
   position: relative;
   display: block;
@@ -18,7 +23,7 @@
   text-transform: uppercase;
   white-space: pre;
   letter-spacing: 4pt;
-  padding-top: 7.5em;
+  padding-top: 7em;
   padding-bottom: 12px;
   background-color: #f2f3f7; }
 

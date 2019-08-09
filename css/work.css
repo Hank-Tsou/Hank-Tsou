@@ -11,7 +11,7 @@
   text-transform: uppercase;
   white-space: pre;
   letter-spacing: 4pt;
-  padding-top: 7.5em;
+  padding-top: 6em;
   padding-bottom: 12px;
   background-color: #f2f3f7; }
 
@@ -278,3 +278,8 @@
           transform: translateY(-50%);
   background-size: cover;
   background-repeat: no-repeat; }
+
+.blank{
+  height:80px;
+  background-color: white;
+}

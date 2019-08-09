@@ -5,7 +5,7 @@
   overflow: hidden; }
 
 .about {
-  height: 745px;
+  height: 740px;
   -ms-flex: 1;
       flex: 1;
   padding-left: 35px;
@@ -77,8 +77,18 @@
   text-transform: uppercase;
   white-space: pre;
   letter-spacing: 4pt;
-  padding-top: 50px;
+  padding-top: 20px;
   padding-bottom: 12px;
+  background-color: white; }
+
+.ab_top_2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: black;
+  font-family: "Playfair Display", Georgia, serif;
+  letter-spacing: 2pt;
+  text-transform: uppercase;
+  padding-bottom: 70px;
   background-color: white; }
 
 .top_1 {
@@ -88,7 +98,7 @@
   text-transform: uppercase;
   white-space: pre;
   letter-spacing: 4pt;
-  padding-top: 7.5em;
+  padding-top: 6em;
   padding-bottom: 12px;
   background-color: white; }
 
