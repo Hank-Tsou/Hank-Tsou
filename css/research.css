@@ -37,6 +37,8 @@
   padding-bottom: 65px;
   background-color: #f2f3f7; }
 
+/* /////////////////////////////////////////////////////////////////////////// */
+
 .researchs_row1 {
   background-color: #f2f3f7;
   display: -ms-flexbox;
@@ -46,11 +48,11 @@
       flex: 1;
   margin-bottom: 3em; }
 
-.researchs_row1 .info {
+.research .info {
   -ms-flex: 1;
       flex: 1;
   margin-right: 20px;
-  background-color: gray; }
+  background-color: #f2f3f7; }
 
 .research .title_contents {
   height: 30px;
@@ -67,7 +69,7 @@
   font-family: "Quicksand", Arial, sans-serif;
   color: #5e9516; }
 
-.res_content_img {
+.researchs_row1 .res_content_img {
   display: -ms-flexbox;
   display: flex;
   height: 300px;
@@ -83,14 +85,51 @@
   background-color: #f2f3f7; }
 
 .researchs_row1 .res_image {
-  height: 238px;
-  width: 359px;
+  height: 270px;
+  width: 364px;
   background-color: #f2f3f7;
-  margin-top: 50px;
+  margin-top: 25px;
   margin-left: 10px;
   background-size: cover;
   background-repeat: no-repeat;
   box-shadow: 4px 4px 12px 4px rgba(51, 51, 102, 0.3); }
+
+
+.researchs_row2 {
+  background-color: #f2f3f7;
+  display: -ms-flexbox;
+  display: flex;
+  height: 320px;
+  -ms-flex: 1;
+      flex: 1;
+  margin-bottom: 3em; }
+
+.researchs_row2 .res_content_img {
+  display: -ms-flexbox;
+  display: flex;
+  height: 300px;
+  background-color: #f2f3f7; }
+
+.researchs_row2 .project_content {
+  height: 300px;
+  width: 440px;
+  background-color: #f2f3f7; }
+
+.researchs_row2 .img_sq {
+  width: 374px;
+  background-color: #f2f3f7; }
+
+.researchs_row2 .res_image {
+  height: 238px;
+  width: 364px;
+  background-color: #f2f3f7;
+  margin-top: 25px;
+  margin-left: 10px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 4px 4px 12px 4px rgba(51, 51, 102, 0.3); }
+/*
+
 
 .researchs_row2 {
   background-color: #f2f3f7;
@@ -135,4 +174,4 @@
   margin-left: 10px;
   background-size: cover;
   background-repeat: no-repeat;
-  box-shadow: 4px 4px 12px 4px rgba(51, 51, 102, 0.3); }
+  box-shadow: 4px 4px 12px 4px rgba(51, 51, 102, 0.3); } */
