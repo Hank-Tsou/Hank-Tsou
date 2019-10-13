@@ -43,14 +43,14 @@
 
 .activity .sqare1 {
   width: 375px;
-  height: 360px;
+  height: 370px;
   background-color:  #f2f3f7;
   box-shadow: 4px 4px 12px 4px rgba(51, 51, 102, 0.3);
 }
 
 .activity .sqare2 {
   width: 375px;
-  height: 360px;
+  height: 370px;
   margin-left: 50px;
   background-color:  #f2f3f7;
   box-shadow: 4px 4px 12px 4px rgba(51, 51, 102, 0.3);
@@ -58,7 +58,7 @@
 
 .activity .position{
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 500;
   margin-top: 10px;
   margin-left: 10px;
   color: #4169E1;
@@ -68,8 +68,9 @@
 
 .sqare1 .act_time{
  font-size: 16px;
+ font-weight: 500;
  margin-top: 6px;
- margin-right: 5px;
+ margin-right: 10px;
  float: right;
  color: rgba(0, 0, 0, 0.5);
 }
@@ -77,6 +78,7 @@
 .sqare2 .act_time{
  font-size: 16px;
  margin-top: 6px;
+ font-weight: 500;
  margin-right: 10px;
  float: right;
  color: rgba(0, 0, 0, 0.5);
@@ -85,6 +87,7 @@
 .activity .title{
   margin-left: 10px;
   font-size: 15px;
+  /* font-weight: 100; */
 }
 /* .club{
   margin-left: 5px;
