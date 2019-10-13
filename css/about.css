@@ -5,7 +5,7 @@
   overflow: hidden; }
 
 .about {
-  height: 740px;
+  height: 780px;
   -ms-flex: 1;
       flex: 1;
   padding-left: 35px;
@@ -89,7 +89,7 @@
   font-family: "Playfair Display", Georgia, serif;
   letter-spacing: 2pt;
   /* text-transform: uppercase; */
-  padding-bottom: 70px;
+  padding-bottom: 60px;
   background-color: white; }
 
 .top_1 {
@@ -130,7 +130,7 @@
   display: -ms-flexbox;
   display: flex;
   background-color: white;
-  padding-top: 10px; }
+  padding-top: 25px; }
 
 .ab_r1_sq_1, .ab_r2_sq_1 {
   margin-left: 55px; }

@@ -24,9 +24,9 @@
   height: 620px;
   background-color: #f2f3f7;
   position: relative;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%); }
+  top: 40%;
+  -webkit-transform: translateY(-40%);
+          transform: translateY(-40%); }
 
 .center_bar .author-img {
   width: 150px;
@@ -85,14 +85,17 @@
   font-family: "Quicksand", Arial, sans-serif; }
 
 .center_bar .hashtag {
-  width: 300px;
-  height: 92px;
+  /* width: 300px; */
+  /* height: 92px; */
   color: #2c98f0;
   font-size: 18px;
   font-family: "Quicksand", Arial, sans-serif;
-  display: block;
+  /* display: block; */
   text-align: center;
-  line-height: 100px; }
+  margin-top: 25px;
+  margin-bottom: 21px;
+  /* line-height: 10px;  */
+}
 
 .center_bar .author {
   text-align: center;

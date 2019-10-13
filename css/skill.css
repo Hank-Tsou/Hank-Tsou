@@ -107,6 +107,10 @@
   display: flex;
   margin-top: 25px; }
 
+.sk_row2 a {
+  text-decoration: none;
+  color: #4169E1;}
+
 .city_scen {
   height: 250px;
   -ms-flex: 1;
