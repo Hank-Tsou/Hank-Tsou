@@ -1,3 +1,4 @@
 markdown: redcarpet
 baseurl: /Profile
+# baseurl: /Hank-Tsou
 exclude: ["README.md"]
