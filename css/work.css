@@ -130,7 +130,7 @@
 .job_name {
   display: flex;
   flex: 1;
-  background-color: blue;
+  background-color: #f2f3f7;
 }
 
 .job_position{
@@ -178,34 +178,30 @@ background-color: #f2f3f7;}
 .work_main_sq_1 .time1 {
   flex:1;
   font-size: 16px;
-  margin-top: 0.4em;
   font-weight: 100;
   color: rgba(0, 0, 0, 0.6);
   font-family: "Quicksand", Arial, sans-serif;
-  background-color: red;}
+  background-color: #f2f3f7;}
 
 .work_sq_r2 .time2 {
+  flex:1;
   font-size: 16px;
-  width:361px;
-  margin-top: 0.4em;
   font-weight: 100;
   color: rgba(0, 0, 0, 0.6);
   font-family: "Quicksand", Arial, sans-serif;
-  /* padding-left: 4px; */
   background-color: #f2f3f7;}
 
 .work_sq_r3 .time3 {
+  flex:1;
   font-size: 16px;
-  width:275px;
-  margin-top: 0.4em;
   font-weight: 100;
   color: rgba(0, 0, 0, 0.6);
   font-family: "Quicksand", Arial, sans-serif;
-  /* padding-left: 8px; */
   background-color: #f2f3f7;}
 
 .work .date{
   float: right;
+  margin-top: 1em;
 }
 
 
