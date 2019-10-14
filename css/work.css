@@ -26,7 +26,7 @@
   background-color: #f2f3f7; }
 
 .work {
-  height: 1120px;
+  height: 1150px;
   -ms-flex: 1;
       flex: 1;
   background-color: #f2f3f7;
@@ -43,7 +43,7 @@
 
 .time_line_1 {
   width: 5px;
-  height: 280px;
+  height: 295px;
   margin: 0 auto;
   margin-top: 5px;
   position: relative;
@@ -111,7 +111,7 @@
 .work_sq_r1 {
   -ms-flex: 1;
       flex: 1;
-  height: 290px;
+  height: 305px;
   display: -ms-flexbox;
   display: flex;
   background-color: #f2f3f7; }
@@ -124,7 +124,7 @@
 .work_main_sq_1 {
   -ms-flex: 1;
       flex: 1;
-  height: 250px;
+  height: 305px;
   background-color: #f2f3f7; }
 
 .job_name {
